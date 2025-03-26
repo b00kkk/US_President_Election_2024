@@ -4,6 +4,7 @@
 - __주제__ : 미국 대선 관련 뉴스 기사 & 트위터 & 토론 텍스트를 활용하여 감성 분석 및 대선 예측
 - __결과보고서__ : [Here](https://github.com/b00kkk/US_President_Election_2024/blob/main/results_report.pdf
   )
+- __프로젝트 수행기간__ : 2024.09.30 ~ 2024.10.31
 
 # 결과보고서
 ## 분석 개요
